@@ -11,11 +11,11 @@ The purpose of creating this software is to improve my skills in JavaScript, han
 
 # Development Environment
 
-Code Editor: Visual Studio Code
-Version Control: Git & GitHub
-Package Manager: npm
-API Used: CurrencyAPI for real-time exchange rates
-Server Development: Vite forsuper-fast build tool and development server
+* Code Editor: Visual Studio Code
+* Version Control: Git & GitHub
+* Package Manager: npm
+* API Used: CurrencyAPI for real-time exchange rates
+* Server Development: Vite forsuper-fast build tool and development server
 
 JavaScript handled the form submission, api requests and updates the DOM dynamically. HTML5 structures the web page content and CSS3 styles the layout and presentation of the form and results.
 
